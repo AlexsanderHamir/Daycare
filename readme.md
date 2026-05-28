@@ -1,6 +1,6 @@
 ## Daycare Project with MERN stack
 
-> This was the first prototype, the full version is private.
+> This was the first prototype, the full version is private and has been sold.
 
 I created a simple daycare system for my family. It made managing things much easier, replacing the old way of tracking schedules and payments on paper. The system handles $12k in monthly payments, and my parents only need to use four buttons: check-in, check-out, late, and generate registration code.
 
